@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\TablaDeMultiplicar.exe.config
+C:\Users\Usuario\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\TablaDeMultiplicar.exe
+C:\Users\Usuario\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\TablaDeMultiplicar.pdb
+C:\Users\Usuario\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\TablaDeMultiplicar.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\TablaDeMultiplicar.Form1.resources
+C:\Users\Usuario\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\TablaDeMultiplicar.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\TablaDeMultiplicar.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\TablaDeMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\TablaDeMultiplicar.exe
+C:\Users\Usuario\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\TablaDeMultiplicar.pdb

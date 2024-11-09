@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\CalculoBonificaciones\CalculoBonificaciones\bin\Debug\CalculoBonificaciones.exe.config
+C:\Users\Usuario\source\repos\CalculoBonificaciones\CalculoBonificaciones\bin\Debug\CalculoBonificaciones.exe
+C:\Users\Usuario\source\repos\CalculoBonificaciones\CalculoBonificaciones\bin\Debug\CalculoBonificaciones.pdb
+C:\Users\Usuario\source\repos\CalculoBonificaciones\CalculoBonificaciones\obj\Debug\CalculoBonificaciones.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CalculoBonificaciones\CalculoBonificaciones\obj\Debug\CalculoBonificaciones.Form1.resources
+C:\Users\Usuario\source\repos\CalculoBonificaciones\CalculoBonificaciones\obj\Debug\CalculoBonificaciones.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CalculoBonificaciones\CalculoBonificaciones\obj\Debug\CalculoBonificaciones.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CalculoBonificaciones\CalculoBonificaciones\obj\Debug\CalculoBonificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CalculoBonificaciones\CalculoBonificaciones\obj\Debug\CalculoBonificaciones.exe
+C:\Users\Usuario\source\repos\CalculoBonificaciones\CalculoBonificaciones\obj\Debug\CalculoBonificaciones.pdb
